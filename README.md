@@ -30,7 +30,7 @@
 
 
 # Technologies Used
-  ### -  Programming Language: C#
+  ### -  Programming Language: C# (.NET Framework)
 
   ### - UI Framework: WinForms
 
