@@ -1,0 +1,18 @@
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\DVLD Fill project.exe.config
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\DVLD Fill project.exe
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\DVLD Fill project.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fill project.csproj.AssemblyReference.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD_Fill_project.Form1.resources
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD_Fill_project.Properties.Resources.resources
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fill project.csproj.GenerateResource.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fill project.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fill project.exe
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fill project.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD_Fill_project.ManagePeople.resources
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\Business-Logic.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\DataAccessLayer.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\Business-Logic.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\bin\Debug\DataAccessLayer.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD Fil.998C5F34.Up2Date
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD_Fill_project.AddEditPersoinInfo.resources
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DVLD Fill project\obj\Debug\DVLD_Fill_project.AddOrUpdatePersoncs.resources

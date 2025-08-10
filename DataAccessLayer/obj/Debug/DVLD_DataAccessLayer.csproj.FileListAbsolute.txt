@@ -1,0 +1,6 @@
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\obj\Debug\DVLD_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

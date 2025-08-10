@@ -1,0 +1,9 @@
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\bin\Debug\Business-Logic.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\bin\Debug\Business-Logic.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\bin\Debug\DataAccessLayer.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\bin\Debug\DataAccessLayer.pdb
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\obj\Debug\Business-Logic.csproj.AssemblyReference.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\obj\Debug\Business-Logic.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\obj\Debug\Business.31AF97BF.Up2Date
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\obj\Debug\Business-Logic.dll
+C:\Users\Tarek\Desktop\project cpp\project level 19 Cs\Business-Logic\obj\Debug\Business-Logic.pdb
