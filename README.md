@@ -9,7 +9,7 @@
 
 ![3-Tier Architecture](https://img.shields.io/badge/Architecture-3--Tier-blue)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/TariqCodeBit/DVLD-Project)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tarek-ahmed-el-56b0802a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TarekAhmedEl-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tarek-ahmed-el-56b0802a8)
 
 # Username: *Tarek*
 # Password : *1994*
